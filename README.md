@@ -11,7 +11,8 @@ First, set up an S3 bucket with the following folder structure to manage the dat
     * **`processed/`**: For cleaned and filtered data output by the Lambda function.
     * **`enriched/`**: For storing athena query results.
 
-    ![alt text]([<C:\Users\chirr\OneDrive\Pictures\Screenshots\S3 Bucket Structure.png>](https://github.com/chirradhanush/Assignment-3/blob/main/S3%20Bucket%20Structure.png))
+    ![S3 Bucket Structure](https://github.com/chirradhanush/Assignment-3/blob/main/S3%20Bucket%20Structure.png?raw=true)
+
     ![alt text](<WhatsApp Image 2025-11-12 at 11.58.03 PM.jpeg>)
 ---
 
