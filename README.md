@@ -92,7 +92,8 @@ Set up the S3 trigger to invoke your Lambda function automatically.
 6.  **Suffix (Recommended)**: Enter `.csv`.
 7.  Check the acknowledgment box and click **Add**.
 
-![alt text](<WhatsApp Image 2025-11-12 at 11.50.49 PM-1.jpeg>)
+![S3 Trigger Screenshot](https://github.com/chirradhanush/Assignment-3/blob/main/Trigger.png?raw=true)
+
 
 --- 
 **Start Processing of Raw Data**: Now upload the Orders.csv file into the `raw/` folder of the S3 Bucket. This will automatically trigger the Lambda function.
@@ -110,9 +111,11 @@ The crawler will scan your processed data and create a data catalog, making it q
 6.  **Output**: Click **Add database** and create a new database named `orders_db`.
 7.  Finish the setup and run the crawler. It will create a new table in your `orders_db` database.
 
-![alt text](<WhatsApp Image 2025-11-12 at 11.56.54 PM.jpeg>)
+![CloudWatch Screenshot](https://github.com/chirradhanush/Assignment-3/blob/main/Cloud%20Watch.png?raw=true)
 
-![alt text](image-3.png)
+
+![Lambda Trigger Screenshot](https://github.com/chirradhanush/Assignment-3/blob/main/Screenshot%20(182).png?raw=true)
+
 
 ---
 
@@ -128,7 +131,8 @@ Navigate to the **Athena** service. Ensure your data source is set to `AwsDataCa
 * **Top 10 Largest Orders in February 2025**: Retrieve the highest-value orders from a specific month.
 
 
-  ![alt text](<WhatsApp Image 2025-11-12 at 11.59.07 PM.jpeg>)
+![S3 Enriched Folder Screenshot](https://github.com/chirradhanush/Assignment-3/blob/main/S3BucketEnrichedFolder.png?raw=true)
+
 ---
 
 ## 7. Launch the EC2 Web Server 🖥️
