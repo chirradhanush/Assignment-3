@@ -224,6 +224,8 @@ Once connected via SSH, run the following commands to install the necessary soft
 * **Stopping the Server**: To stop the Flask application, return to your SSH terminal and press `Ctrl + C`.
 * **Cost Management**: This setup uses free-tier services. To prevent unexpected charges, **stop or terminate your EC2 instance** from the AWS console when you are finished.
 
-  ![alt text](<WhatsApp Image 2025-11-12 at 11.38.36 PM.jpeg>)
-  ![WhatsApp Image 2025-11-12 at 23 39 14_c5dddcd6](https://github.com/user-attachments/assets/c0299a5d-a57a-4510-be1b-7d4aa0ef195e)
+![Final Webpage Screenshot](https://github.com/chirradhanush/Assignment-3/blob/main/FinalWebpagePhoto1.png?raw=true)
+
+![Final Webpage Screenshot 2](https://github.com/chirradhanush/Assignment-3/blob/main/FinalWebpagePhoto2.png?raw=true)
+
 
