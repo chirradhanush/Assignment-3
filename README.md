@@ -47,7 +47,8 @@ Create the following IAM roles to grant AWS services the necessary permissions t
     * `AWSGlueServiceRole`
 3.  Name the role (e.g., `Glue-S3-Crawler-Role`) and create it.
 
-![alt text](image.png)
+![Lambda Trigger Screenshot](https://github.com/chirradhanush/Assignment-3/blob/main/Screenshot%20(182).png?raw=true)
+
 
 ### EC2 Instance Profile
 
