@@ -21,7 +21,8 @@ First, set up an S3 bucket with the following folder structure to manage the dat
 
 Create the following IAM roles to grant AWS services the necessary permissions to interact with each other securely.
 
-![alt text](<WhatsApp Image 2025-11-12 at 11.49.24 PM.jpeg>)
+![IAM Roles Screenshot](https://github.com/chirradhanush/Assignment-3/blob/main/IAM%20Roles.png?raw=true)
+
 
 ### Lambda Execution Role
 
