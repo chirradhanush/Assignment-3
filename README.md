@@ -34,7 +34,7 @@ Create the following IAM roles to grant AWS services the necessary permissions t
     * `AmazonS3FullAccess`
 5.  Give the role a descriptive name (e.g., `Lambda-S3-Processing-Role`) and create it.
 
-![Lambda Function Screenshot](https://github.com/chirradhanush/Assignment-3/blob/main/Lambda%20Function.png?raw=true)
+![Processed Data Screenshot](https://github.com/chirradhanush/Assignment-3/blob/main/Screenshot%20(183).png?raw=true)
 
 
 
@@ -47,7 +47,7 @@ Create the following IAM roles to grant AWS services the necessary permissions t
     * `AWSGlueServiceRole`
 3.  Name the role (e.g., `Glue-S3-Crawler-Role`) and create it.
 
-![Lambda Trigger Screenshot](https://github.com/chirradhanush/Assignment-3/blob/main/Screenshot%20(182).png?raw=true)
+![Glue Crawler Screenshot](https://github.com/chirradhanush/Assignment-3/blob/main/Screenshot%20(184).png?raw=true)
 
 
 ### EC2 Instance Profile
@@ -58,7 +58,7 @@ Create the following IAM roles to grant AWS services the necessary permissions t
     * `AmazonAthenaFullAccess`
 3.  Name the role (e.g., `EC2-Athena-Dashboard-Role`) and create it.
 
-![alt text](image-1.png)
+![Athena Query Screenshot](https://github.com/chirradhanush/Assignment-3/blob/main/Screenshot%20(185).png?raw=true)
 
 ---
 
@@ -75,7 +75,8 @@ This function will automatically process files uploaded to the `raw/` S3 folder.
 7.  Click **Create function**.
 8.  In the **Code source** editor, replace the default code with LambdaFunction.py code for processing the raw data.
 
-![alt text](<WhatsApp Image 2025-11-12 at 11.53.20 PM.jpeg>)
+![Lambda Function Screenshot](https://github.com/chirradhanush/Assignment-3/blob/main/Lambda%20Function.png?raw=true)
+
 
 ---
 
