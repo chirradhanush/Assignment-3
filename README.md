@@ -13,7 +13,8 @@ First, set up an S3 bucket with the following folder structure to manage the dat
 
     ![S3 Bucket Structure](https://github.com/chirradhanush/Assignment-3/blob/main/S3%20Bucket%20Structure.png?raw=true)
 
-    ![alt text](<WhatsApp Image 2025-11-12 at 11.58.03 PM.jpeg>)
+    ![Processed Folder Screenshot](https://github.com/chirradhanush/Assignment-3/blob/main/Processed%20Folder.png?raw=true)
+
 ---
 
 ## 2. IAM Roles and Permissions 🔐
